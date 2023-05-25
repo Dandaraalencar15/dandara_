@@ -1,5 +1,5 @@
-Create database dandara;
-use  dandara;
+Create database grupoEscolar;
+use grupoEscolar ;
 Create table escola (
 Id int not null auto_increment primary key,
 salas int,
